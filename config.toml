@@ -16,6 +16,11 @@ icon = "star"
 [[extra.nav]]
 name = "agentic"
 tag = "agentic"
+icon = "code"
+
+[[extra.nav]]
+name = "tools"
+tag = "tools"
 icon = "wrench"
 
 [[extra.nav]]

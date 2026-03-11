@@ -1,0 +1,41 @@
+[[tiles]]
+name = "os-for-agent"
+url = "https://github.com/os-for-agent"
+bg_color = "#24292E"
+txt_color = "#FFFFFF"
+tags = ["code", "tools", "favorite", "work"]
+
+[[tiles]]
+name = "Gmail"
+url = "https://gmail.com"
+bg_color = "#EA4335"
+txt_color = "#FFFFFF"
+tags = ["tools", "work"]
+
+[[tiles]]
+name = "YouTube"
+url = "https://youtube.com"
+bg_color = "#FF0000"
+txt_color = "#FFFFFF"
+tags = ["entertainment", "favorite"]
+
+[[tiles]]
+name = "Spotify"
+url = "https://spotify.com"
+bg_color = "#1DB954"
+txt_color = "#FFFFFF"
+tags = ["entertainment"]
+
+[[tiles]]
+name = "Twitter"
+url = "https://twitter.com"
+bg_color = "#1DA1F2"
+txt_color = "#FFFFFF"
+tags = ["social"]
+
+[[tiles]]
+name = "LinkedIn"
+url = "https://linkedin.com"
+bg_color = "#0077B5"
+txt_color = "#FFFFFF"
+tags = ["social", "work"]
