@@ -1,11 +1,4 @@
 [[tiles]]
-name = "os-for-agent"
-url = "https://github.com/os-for-agent"
-bg_color = "#24292E"
-txt_color = "#FFFFFF"
-tags = ["code", "tools", "favorite", "work"]
-
-[[tiles]]
 name = "Gmail"
 url = "https://gmail.com"
 bg_color = "#EA4335"
@@ -25,6 +18,13 @@ url = "https://spotify.com"
 bg_color = "#1DB954"
 txt_color = "#FFFFFF"
 tags = ["entertainment"]
+
+[[tiles]]
+name = "os-for-agent"
+url = "https://github.com/os-for-agent"
+bg_color = "#24292E"
+txt_color = "#FFFFFF"
+tags = ["code", "tools", "favorite", "work"]
 
 [[tiles]]
 name = "Twitter"
