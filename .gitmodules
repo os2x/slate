@@ -1,0 +1,3 @@
+[submodule "themes/landing-grid"]
+	path = themes/landing-grid
+	url = https://github.com/fastup-one/landing-grid-zola.git

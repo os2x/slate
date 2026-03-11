@@ -1,0 +1,34 @@
+base_url = "https://viz.os2x.com"
+title = "Slate Magic"
+description = "dashboard for quick access"
+theme = "landing-grid"
+
+[extra]
+favicon = "favicon.ico"
+open_links_in_new_window = true
+
+# Navigation categories (customize icons and names)
+[[extra.nav]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[extra.nav]]
+name = "agentic"
+tag = "agentic"
+icon = "wrench"
+
+[[extra.nav]]
+name = "social"
+tag = "social"
+icon = "users"
+
+[[extra.nav]]
+name = "work"
+tag = "work"
+icon = "briefcase"
+
+[[extra.nav]]
+name = "entertainment"
+tag = "entertainment"
+icon = "play"
